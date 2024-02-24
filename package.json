@@ -1,6 +1,7 @@
 {
   "name": "ra_hw4_t2",
   "version": "0.1.0",
+  "homepage": "https://ravenrvs.github.io/RA_HW4_T1/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
